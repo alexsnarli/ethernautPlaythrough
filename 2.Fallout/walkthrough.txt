@@ -1,0 +1,6 @@
+These are the steps needed to complete the level (in the browser console)
+
+The constructor function (declared in the old way by naming the function the same as the contract) is spelled wrong.
+Simply call the function to claim ownership (Fallout spelled with a 1 instead of l int the second l).
+
+await contract.Fal1out()
